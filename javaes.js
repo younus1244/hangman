@@ -259,8 +259,8 @@ const wordList = [
         word: "brilliant",
         hint: "Exceptionally clever, talented, or impressive."
     },
-	{
+    {
 		word:"Younus",
 		hint:"Game created by."
-	},	
+    },	
 ];
